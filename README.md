@@ -3,7 +3,7 @@
 ## Deskripsi
 Proyek ini menganalisis data saham harian GOTO.
 
-##Dataset
+## Dataset
 Dataset yang digunakan dalam proyek ini adalah data saham harian GOTO dari tanggal 4 November 2022 hingga 1 Juni 2023. Dataset ini mencakup kolom berikut:
 
 - timestamp: Tanggal dan waktu transaksi.
@@ -13,7 +13,7 @@ Dataset yang digunakan dalam proyek ini adalah data saham harian GOTO dari tangg
 - close: Harga saham pada akhir periode.
 - volume: Jumlah saham yang diperdagangkan selama periode tersebut.
 
-##Metodologi
+## Metodologi
 Berikut adalah beberapa analisis yang dilakukan pada dataset ini:
 
 - Analisis Tren: Melihat bagaimana harga penutupan berubah sepanjang waktu.
@@ -25,5 +25,5 @@ Berikut adalah beberapa analisis yang dilakukan pada dataset ini:
 - Analisis Volatilitas Historis: Menghitung volatilitas historis sebagai standar deviasi dari return harian.
 - Analisis Moving Volatility: Menghitung moving volatility 7 hari dan 30 hari sebagai standar deviasi dari return harian dalam waktu tertentu.
 
-##Hasil
+## Hasil
 Hasil dari analisis ini dapat digunakan untuk mendapatkan pemahaman yang lebih baik tentang pergerakan saham GOTO, yang dapat membantu dalam pengambilan keputusan investasi.
