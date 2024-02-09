@@ -4,7 +4,7 @@
 Proyek ini menganalisis data saham harian GOTO.
 
 ## Dataset
-Dataset diperoleh dari kaggle pada link berikut : https://www.kaggle.com/datasets/muamkh/ihsgstockdata
+Dataset diperoleh dari kaggle pada link berikut : https://www.kaggle.com/datasets/muamkh/ihsgstockdata.
 Dataset yang digunakan dalam proyek ini adalah data saham harian GOTO dari tanggal 4 November 2022 hingga 1 Juni 2023. Dataset ini mencakup kolom berikut:
 
 - timestamp: Tanggal dan waktu transaksi.
